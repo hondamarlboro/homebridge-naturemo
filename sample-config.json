@@ -14,7 +14,7 @@
         {
             "accessory": "NatureRemo",
             "access_token": "{access token}",
-            "name": "Your Device Name>",
+            "name": "Your Device Name",
             "on_id": "device id of power-on signal",
             "off_id": "device id of power-off signal"
         }
