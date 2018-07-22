@@ -1,18 +1,25 @@
 {
   "name": "homebridge-naturemo",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Make Nature Remo HomeKit-compatible device on Homebridge",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
     "homebridge": ">=0.2.0"
+  },  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hondamarlboro/homebridge-naturemo.git"
   },
   "keywords": [
     "homebridge-plugin",
-    "HomeKit",
-    "Nature Remo"
+    "HomeKit"
   ],
   "author": "hondamarlboro",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hondamarlboro/homebridge-naturemo/issues"
+  },
+  "homepage": "https://github.com/hondamarlboro/homebridge-naturemo#readme"
 }
