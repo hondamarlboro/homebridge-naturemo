@@ -1,0 +1,22 @@
+{
+    "bridge": {
+        "name": "homebridge",
+        "username": "XX:XX:XX:XX:XX:XX",
+        "port": 51826,
+        "pin": "031-45-156"
+    },
+
+    "description" : "Nature Remo Control",
+
+    "platforms": [],
+
+    "accessories": [
+        {
+            "accessory": "NatureRemo",
+            "access_token": "{access token}",
+            "name": "Your Device Name>",
+            "on_id": "device id of power-on signal",
+            "off_id": "device id of power-off signal"
+        }
+    ]
+}
