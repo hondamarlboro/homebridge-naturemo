@@ -1,0 +1,15 @@
+{
+  "name": "homebridge-naturemo",
+  "version": "0.1.0",
+  "description": "Make Nature Remo HomeKit-compatible device on Homebridge",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "HomeKit",
+    "Nature Remo"
+  ],
+  "author": "hondamarlboro",
+  "license": "MIT"
+}
